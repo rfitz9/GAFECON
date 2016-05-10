@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "GAFE Mini Conference"
+keywords:    "Google, GAFE, PD,"
+description: "Everything you need to know about the big event!"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -36,4 +36,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-
