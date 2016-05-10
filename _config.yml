@@ -12,7 +12,7 @@ title:       "GAFE Mini Conference"
 keywords:    "Google, GAFE, PD,"
 description: "Everything you need to know about the big event!"
 source_link: "https://rfitz9.github.io/gafecon/"
-favicon:     "img/favicon.ico"
+favicon:     "<i class="fa fa-rocket" aria-hidden="true"></i>"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
