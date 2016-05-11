@@ -1,5 +1,5 @@
 ---
-title: "updating"
+title: "New Features"
 bg: purple
 color: white
 fa-icon: cloud-upload
