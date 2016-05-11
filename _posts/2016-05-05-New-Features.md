@@ -5,7 +5,7 @@ color: white
 fa-icon: cloud-upload
 ---
 
-## Updating
+## New Features!
 
 Have you heard of a cool new update to Google Apps? Check out the official Google Apps Update Release Cycle Calendar below to see when it will show up on our domain in District 6. We Follow the "Scheduled Release," so look for the green events!
 
