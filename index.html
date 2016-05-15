@@ -21,6 +21,7 @@
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        <li class='active'><a href="https://m.me/helloblastbot">Chat</a></li>
       {% endfor %}
     </ul></nav>
 
