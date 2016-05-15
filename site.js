@@ -93,3 +93,4 @@ $(document).ready(function (){
 
 });
 
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"d4e1819952780e58340e93dde","lid":"000bf7cd42"}) })</script>
