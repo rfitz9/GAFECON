@@ -1,7 +1,7 @@
 ---
 title: "Competition"
-bg: '#f8f8f8'
-color: black
+bg: purple
+color: white
 fa-icon: trophy
 ---
 ### Enter to Win a Google Cardboard!
