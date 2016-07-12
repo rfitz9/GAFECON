@@ -10,13 +10,7 @@ fa-icon: cloud-upload
 Have you heard of a cool new update to Google Apps? Check out the official Google Apps Update Release Cycle Calendar below to see when it will show up on our domain in District 6. We Follow the "Scheduled Release," so look for the green events!
 
 ### What do the colors mean?
-![Rapid Release](http://whatsnew.googleapps.com/_/rsrc/1321556023628/home/cal_color_red.png) Rapid Release Feature
 
-![Scheduled Release](http://whatsnew.googleapps.com/_/rsrc/1321555999689/home/cal_color_green.png) Scheduled Release Feature
-
-![Training Feature](http://whatsnew.googleapps.com/_/rsrc/1321555971381/home/cal_color_blue.png) Training Resource
-
-![Other](http://whatsnew.googleapps.com/_/rsrc/1321555987732/home/cal_color_gold.png) Other
 
 <div align="center">
   <iframe src="https://calendar.google.com/calendar/embed?title=Google%20Apps%20Release%20Schedule&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=googleapps.com_2upegd7hvs3ql9faos7vt7lpj0%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=googleapps.com_tgl20kb8fb0i9lpif1tkdut5f4%40group.calendar.google.com&amp;color=%23A32929&amp;src=googleapps.com_3clac3pma80j4j1di72ugjni88%40group.calendar.google.com&amp;color=%23113F47&amp;src=googleapps.com_2shpa6oa54dg6ol320irchc0pk%40group.calendar.google.com&amp;color=%230D7813&amp;ctz=America%2FDenver" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
