@@ -1,5 +1,5 @@
 ---
-title: "Chat"
+title: "Competition"
 bg: '#f8f8f8'
 color: black
 fa-icon: 
