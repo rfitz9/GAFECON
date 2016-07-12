@@ -6,8 +6,6 @@ fa-icon:
 ---
 ### Enter to Win a Google Cardboard!
 
-
-![Google Cardboard](img/Assembled_Google_Cardboard_VR_mount.jpg)
 {:.center}
 <a href="">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Assembled_Google_Cardboard_VR_mount.jpg/640px-Assembled_Google_Cardboard_VR_mount.jpg">
